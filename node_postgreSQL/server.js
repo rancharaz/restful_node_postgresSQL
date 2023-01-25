@@ -1,6 +1,6 @@
 //initialise express
 const express = require('express');
-const employeeRoutes = require('./src/employees/routes')
+const employeeRoutes = require('./src/employees/routes/routes')
 const app = express()
 const port = 3000; // port number
 

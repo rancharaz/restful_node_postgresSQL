@@ -3,7 +3,7 @@ const { Router } = require('express');
 //creating router object
 const router = Router();
 //import controller getEmployees
-const controller = require('./controller')
+const controller = require('../controller/controller')
 
 /*   */
 

@@ -1,9 +1,9 @@
 //business logic file
 //db connection
-const pool = require('../../db')
+const pool = require('../../../db')
 
 //sql queries statement with object
-const queries = require('./queries')
+const queries = require('../queries')
 
 /*  */
 
